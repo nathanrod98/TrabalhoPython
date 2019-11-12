@@ -10,6 +10,6 @@ if num1 > num2:
 elif num1 == num2:
     print("os numeros sao iguais")
 else:
-    print('"numero2 é maior"')
+    print('numero2 é maior')
 
 
